@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+Firmwares/Teropong/.cproject
+Firmwares/Teropong/.project
+Firmwares/Teropong/.settings/
+Firmwares/Teropong/Release/
